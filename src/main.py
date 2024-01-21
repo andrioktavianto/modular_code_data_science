@@ -1,0 +1,1 @@
+# panggil load_data -> preprocess
